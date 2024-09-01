@@ -1,4 +1,4 @@
-# projeto_icomida
+# projeto app turismo
 
 A new Flutter project.
 
